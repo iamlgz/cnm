@@ -14,3 +14,14 @@ Laravel development server started: <http://0.0.0.0:8000>
 [Wed Jan  8 16:44:49 2020] 36.112.84.202:54417 [200]: /favicon.ico
 [Wed Jan  8 17:16:33 2020] 36.112.84.202:57880 [200]: /favicon.ico
 [Wed Jan  8 18:20:27 2020] 36.112.84.202:56962 [200]: /favicon.ico
+[Thu Jan  9 00:15:16 2020] 193.106.31.98:354 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:16:02 2020] 62.210.77.54:44604 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:16:03 2020] 62.210.77.54:50680 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:16:17 2020] 123.145.32.104:51762 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:16:19 2020] 113.58.233.19:52216 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:16:20 2020] 124.88.112.69:21760 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:16:20 2020] 221.213.75.219:52708 Invalid request (Malformed HTTP request)
+[Thu Jan  9 03:43:17 2020] 60.29.21.218:52430 Invalid request (Malformed HTTP request)
+[Thu Jan  9 07:13:50 2020] 222.186.19.221:36110 Invalid request (Malformed HTTP request)
+[Thu Jan  9 08:49:23 2020] 60.191.38.78:5759 Invalid request (Malformed HTTP request)
+[Thu Jan  9 09:56:08 2020] 36.112.84.202:2889 [200]: /favicon.ico
